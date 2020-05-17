@@ -25,6 +25,8 @@ public class MainActivity extends AppCompatActivity {
 
     String title;
     String desc;
+    String datetime;
+    String mood;
     String combined;
 
     @Override
